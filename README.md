@@ -2,9 +2,13 @@
 
 🚀 About Me
 
-I'm a passionate Frontend Engineer with over 5 years of experience, dedicated to crafting intuitive, high-performance, and SEO-optimized web applications. Originally from Brazil, I lived in Portugal for almost 6 years, and I'm now happily based in Almería, Spain. I absolutely love living here, enjoying the beautiful beaches, the nearby Sierra Nevada for snow, engaging in various sports, and immersing myself in the rich Spanish culture.
+I'm a passionate Frontend Engineer with over 5 years of experience, dedicated to crafting intuitive, high-performance, and SEO-optimized web applications using React, Next.js, and TypeScript. My journey is driven by a desire to create impactful digital experiences and measurable business results.
 
-My academic journey began with a Bachelor's degree in Librarianship from UFMG in Brazil, but my passion shifted to the programming world in 2019 in Lisbon, starting with the SheCodes workshop and then the Le Wagon bootcamp. I thrive in agile environments, constantly adapting to new technologies, and leverage AI tools to enhance my development efficiency. Beyond coding, I have a deep love for travel, exploring different cultures, and embracing new technologies.
+My path into tech wasn't linear: I majored in Librarianship in Brazil, where I specialized in digital resource management. While I enjoyed organizing information, I pivoted to programming in 2019 in Lisbon, starting with the SheCodes workshop and then diving deep into full-stack development at Le Wagon bootcamp.
+
+After almost 6 years in Portugal, I'm now happily based in Almería, Spain. I love living here, enjoying the beautiful beaches, the nearby Sierra Nevada for snow, engaging in sports, and immersing myself in Spanish culture.
+
+I thrive in agile environments, constantly adapting to new technologies, and leverage AI tools for efficiency. Beyond coding, I have a deep love for travel, exploring different cultures, and embracing new technologies. My goal is to continuously learn, build confidently, and contribute to engaging and accessible web experiences.
 
 💻 My Tech Stack
 <div align="left">
