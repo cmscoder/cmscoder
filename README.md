@@ -2,9 +2,9 @@
 
 🚀 About Me
 
-I'm a passionate Frontend Engineer with over 5 years of experience, dedicated to crafting intuitive, high-performance, and SEO-optimized web applications. My journey in development is driven by a desire to create impactful digital experiences that not only look great but also deliver measurable business results. I thrive in agile environments, constantly adapting to new technologies, and I leverage AI tools to enhance my development efficiency.
+I'm a passionate Frontend Engineer with over 5 years of experience, dedicated to crafting intuitive, high-performance, and SEO-optimized web applications. Originally from Brazil, I lived in Portugal for almost 6 years, and I'm now happily based in Almería, Spain. I absolutely love living here, enjoying the beautiful beaches, the nearby Sierra Nevada for snow, engaging in various sports, and immersing myself in the rich Spanish culture.
 
-Beyond coding, I'm always eager to learn and explore new horizons in the tech world.
+My academic journey began with a Bachelor's degree in Librarianship from UFMG in Brazil, but my passion shifted to the programming world in 2019 in Lisbon, starting with the SheCodes workshop and then the Le Wagon bootcamp. I thrive in agile environments, constantly adapting to new technologies, and leverage AI tools to enhance my development efficiency. Beyond coding, I have a deep love for travel, exploring different cultures, and embracing new technologies.
 
 💻 My Tech Stack
 <div align="left">
@@ -43,4 +43,6 @@ Beyond coding, I'm always eager to learn and explore new horizons in the tech wo
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
 </div>
+
+I'll continue updating this soon...
 
