@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Camila and I'm a Frontend Engineer, from Brazil living in Spain.</h2>
+<h2 align="left">Hi 👋! My name is Camila, I'm a Frontend Software Engineer with over 5 years of experience.</h2>
 
 🚀 About Me
 
