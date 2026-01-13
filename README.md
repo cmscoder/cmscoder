@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Camila, I'm a Frontend Software Engineer with over 5 years of experience.</h2>
+<h2 align="left">Hi 👋! My name is Camila, I'm a Frontend Software Engineer with over 6 years of experience.</h2>
 
 🚀 About Me
 
