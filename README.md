@@ -15,6 +15,7 @@ My academic background in information management and digital resource organizati
 
 Having lived and worked across different countries in Europe, I’m comfortable in distributed teams and multicultural environments.
 
+
 💻 Tech Stack
 
 Frontend
@@ -36,6 +37,7 @@ Backend & Other Experience
 Node.js, C#, .NET, GraphQL
 
 REST APIs, Firebase
+
 
 🤝 Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/camila-medeiros-silva/))  
 🌐 You can also explore my portfolio at [camilasilva.com](https://www.camilasilva.com)
