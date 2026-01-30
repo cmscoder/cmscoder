@@ -2,6 +2,7 @@
 
 I’m Camila, a Software Engineer with a frontend focus, building scalable, high-performance applications with strong architectural foundations.
 
+
 🚀 About Me
 
 With 6+ years of experience, I work on complex products where performance, maintainability, and user experience are critical. My background is strongly rooted in frontend engineering, but always from a software engineering perspective — thinking in terms of architecture, trade-offs, scalability, and long-term evolution of systems.
@@ -36,4 +37,6 @@ Node.js, C#, .NET, GraphQL
 
 REST APIs, Firebase
 
-🤝 Feel free to explore my repositories or check out my portfolio www.camilsilva.com
+🤝 Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/camila-medeiros-silva/))  
+🌐 You can also explore my portfolio at [camilasilva.com](https://www.camilasilva.com)
+
