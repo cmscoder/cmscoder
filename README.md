@@ -40,7 +40,7 @@ Backend & Other Experience
 
 # Hi there, I'm Camila! 👋
 
-<img align="right" width="350" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm9qZzR3eHh6eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2NoYXRfbW9kZSZjdD1n/IThjAlJnD9WNO/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG44bnB4dGR2c2hzYXJvcnIxd2xtM2RuaHV6N3gxYzY0ZXc0dXcyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif)">
+<img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG44bnB4dGR2c2hzYXJvcnIxd2xtM2RuaHV6N3gxYzY0ZXc0dXcyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif">
 
 ### Senior Frontend Engineer | React & Next.js Specialist 🚀
 
