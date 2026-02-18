@@ -1,43 +1,3 @@
-👋 Hi, thanks for stopping by
-
-I’m Camila, a Software Engineer with a frontend focus, building scalable, high-performance applications with strong architectural foundations.
-
-
-🚀 About Me
-
-With 6+ years of experience, I work on complex products where performance, maintainability, and user experience are critical. My background is strongly rooted in frontend engineering, but always from a software engineering perspective — thinking in terms of architecture, trade-offs, scalability, and long-term evolution of systems.
-
-I’ve contributed to high-traffic e-commerce platforms and B2C/B2B SaaS products, collaborating closely with product managers, designers, and backend teams in agile environments. My work has directly impacted checkout performance, SEO-driven traffic growth, conversion improvements, and reduced operational overhead through better frontend architecture and user flows.
-
-From a technical standpoint, I frequently work with modern frontend stacks such as React, Next.js, and TypeScript, alongside strong testing practices, CI/CD pipelines, and accessibility (a11y) standards. I value clean code, clear abstractions, and frontend systems that scale gracefully as products grow.
-
-My academic background in information management and digital resource organization shaped my understanding of how information is indexed, structured, and discovered — which directly informs my approach to SEO and content-driven applications.
-
-Having lived and worked across different countries in Europe, I’m comfortable in distributed teams and multicultural environments.
-
-
-💻 Tech Stack
-
-Frontend
-
-React, Next.js, TypeScript
-
-Accessibility (a11y), SEO, performance optimization
-
-Engineering Practices
-
-Scalable frontend architecture
-
-Testing (Jest, React Testing Library)
-
-CI/CD pipelines
-
-Backend & Other Experience
-
-
-
-
-
 # Hi there, I'm Camila! 👋
 
 <img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG44bnB4dGR2c2hzYXJvcnIxd2xtM2RuaHV6N3gxYzY0ZXc0dXcyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif">
@@ -74,6 +34,7 @@ I'm a passionate Software Engineer with **6+ years of experience** building high
 
 ### 📊 GitHub Stats
 ![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmscoder&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmscoder&layout=compact&theme=radical)
 
 *"Turning complex problems into elegant frontend solutions."*
