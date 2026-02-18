@@ -30,20 +30,4 @@ I'm a passionate Software Engineer with **6+ years of experience** building high
 [![Website Badge](https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://www.camilasilva.com)](https://www.camilasilva.com)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:camila_m_s@outlook.com)](mailto:camila_m_s@outlook.com)
 
----
-
-### 📊 GitHub Stats
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmscoder&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmscoder&layout=compact&theme=radical)
-
-*"Turning complex problems into elegant frontend solutions."*
-
-Node.js, C#, .NET, GraphQL
-
-REST APIs, Firebase
-
-
-🤝 Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/camila-medeiros-silva/))  
-🌐 You can also explore my portfolio at [camilasilva.com](https://www.camilasilva.com)
 
