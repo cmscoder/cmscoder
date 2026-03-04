@@ -43,9 +43,6 @@ Technology has always been more than just a career for me—it's a lifelong pass
 <a href="https://www.camilasilva.com" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
 </a>
-<a href="mailto:camila_m_s@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-</a>
 
 ---
 
