@@ -3,7 +3,7 @@
 
 <img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG44bnB4dGR2c2hzYXJvcnIxd2xtM2RuaHV6N3gxYzY0ZXc0dXcyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif">
 
-### Senior Frontend Engineer | Building Digital Dreams 🚀
+### Frontend Engineer | Building Digital Dreams 🚀
 
 Technology has always been more than just a career for me—it's a lifelong passion. I am deeply driven by the art of problem-solving and the endless possibilities of code. My journey is defined by a **constant hunger for learning** and a commitment to staying at the forefront of the ever-evolving tech landscape, always seeking new ways to turn innovative ideas into impactful digital realities.
 
